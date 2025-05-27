@@ -4,4 +4,9 @@
     <router-view />
 </template>
 
-<style scoped></style>
+<style scoped>
+.test{
+    color: red;
+    font-size: 20px;
+}
+</style>
